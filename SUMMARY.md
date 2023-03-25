@@ -3,6 +3,6 @@
 * [splinebook](README.md)
 * [Pagsdflskjflskdfjslfe 1](pagsdflskjflskdfjslfe-1.md)
 
-## Group 1
+## фывафывафыва
 
-* [Page 1](group-1/page-1.md)
+* [Page 1](fyvafyvafyva/page-1.md)
