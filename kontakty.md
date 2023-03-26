@@ -13,7 +13,7 @@ Telegram: [@pavel\_anpleenko](https://t.me/pavel\_anpleenko)
 
 
 
-### Дополнительная информация
+### Дополнительная информация:
 
 VC: [https://vc.ru/s/1614034-pisma-dizaynera](https://vc.ru/s/1614034-pisma-dizaynera)
 
