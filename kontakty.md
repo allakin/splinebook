@@ -9,4 +9,4 @@
 
 Telegram: [@pavel\_anpleenko](https://t.me/pavel\_anpleenko)
 
-Почта: pavel.anpleenko@gmail.com
+Почта: [pavel.anpleenko@gmail.com](mailto:pavel.anpleenko@gmail.com?subject=Привет👋)
