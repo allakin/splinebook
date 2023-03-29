@@ -6,7 +6,7 @@
 
 * [Вспомогательные материалы](nachalo-raboty/vspomogatelnye-materialy.md)
 * [Интерфейс Spline](nachalo-raboty/interfeis-spline/README.md)
-  * [Панель слоёв в проекте](nachalo-raboty/interfeis-spline/panel-sloyov-v-proekte.md)
+  * [Панель слоёв](nachalo-raboty/interfeis-spline/panel-sloyov.md)
   * [Вспомогательная панель](nachalo-raboty/interfeis-spline/vspomogatelnaya-panel.md)
   * [Домашняя страница](nachalo-raboty/interfeis-spline/domashnyaya-stranica.md)
   * [Открытый проект](nachalo-raboty/interfeis-spline/otkrytyi-proekt.md)

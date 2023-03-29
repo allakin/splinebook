@@ -19,7 +19,7 @@ description: С чем предстоит работать.
 
 #### Описание элементов интерфейса:
 
-1. [panel-sloyov-v-proekte.md](panel-sloyov-v-proekte.md "mention")
+1. [panel-sloyov.md](panel-sloyov.md "mention")
 2. [vspomogatelnaya-panel.md](vspomogatelnaya-panel.md "mention")
 3. [domashnyaya-stranica.md](domashnyaya-stranica.md "mention")
 4. [otkrytyi-proekt.md](otkrytyi-proekt.md "mention")
