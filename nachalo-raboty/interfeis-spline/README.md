@@ -4,6 +4,11 @@ description: С чем предстоит работать.
 
 # Интерфейс Spline
 
+{% hint style="info" %}
+Вы нашли ошибку в тексте?\
+Заполните [форму](https://forms.gle/191Za6muNDFdTQkU6) и ошибка будет исправлена.
+{% endhint %}
+
 ### Основной интерфейс&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-03-27 at 21.54.26.png" alt=""><figcaption></figcaption></figure>
