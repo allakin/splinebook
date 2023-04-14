@@ -6,7 +6,7 @@ description: От самой компании Spline
 
 {% hint style="info" %}
 Вы нашли ошибку в тексте?\
-Заполните [форму](https://forms.gle/191Za6muNDFdTQkU6) и ошибка будет исправлена.
+Заполните [форму](https://forms.gle/191Za6muNDFdTQkU6), ошибка будет исправлена.
 {% endhint %}
 
 #### Официальная документация
